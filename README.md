@@ -1,4 +1,5 @@
-### Hi, I'm Gabriela ✨ 
+---
+## Hi, I'm Gabriela ✨ 
 
 Hi! My name is Gabriela and I'm a front-end developer with a degree in Psychology.
 
@@ -12,7 +13,7 @@ Today I can be part of that transformation as a frond-end developer having in mi
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/gabrielahorcasitas/).
 - ♀ Pronouns She/Her
 
-## Technical Skills
+### Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +25,8 @@ Today I can be part of that transformation as a frond-end developer having in mi
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdowm](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### ¡Hola, soy Gabriela! ✨ 
+---
+## ¡Hola, soy Gabriela! ✨ 
 
 Hola, me llamo Gabriela y soy desarrolladora front-end.
 
@@ -42,7 +43,7 @@ el entorno.
 - 📫 Contáctame en [Linkedin](https://www.linkedin.com/in/gabrielahorcasitas/).
 - ♀ Pronombres Ella/She/Her
 
-## Habilidades Tech
+### Habilidades Tech
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
