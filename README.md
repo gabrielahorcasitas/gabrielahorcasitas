@@ -7,6 +7,7 @@ During my studies on psychology I discovered how our interactions can be transfo
 
 Today I can be part of that transformation as a frond-end developer having in mind the relevance of the user experience thanks to my training as a psychologist focused on perception and its shaping as a result of the interactions we have with the environment.
 
+- ⚛ Currently learning React.
 - 🏗 I've developed projects based on HTML, CSS, JavaScript & Node.JS.
 - 🧵 Each project has been builded on prioritizing the user experience.
 - 💨 I've embarked on my projects using agile methodologies, particularly SCRUM.
@@ -38,6 +39,7 @@ Hoy puedo ser parte de ese cambio como desarrolladora front-end, teniendo siempr
 de usuario gracias a mi formación como psicólca enfocada en cómo nuestra percepción es moldeada gracias a nuestras interacciones con 
 el entorno.
 
+- ⚛ Actualmente aprendiendo React.
 -  🏗 He desarrollado proyectos con base en HTML, CSS, JavaScript y Node.JS.
 - 🧵 Cada proyecto lo he construido priorizando la experiencia de mis usuarios.
 - 💨 Me he embarcado en mis proyectos partiendo de metodologías ágiles, particularmente con el método SCRUM.
