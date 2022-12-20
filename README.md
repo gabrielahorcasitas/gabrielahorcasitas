@@ -3,7 +3,7 @@
 
 Hi! My name is Gabriela and I'm a front-end developer with a degree in Psychology.
 
-During my studies on psychology I discovered how our interactions can be transformed thanks to the use of technological interfaces.
+During my studies on psychology I discovered how our interactions can be transformed due to the use of technological interfaces.
 
 Today I can be part of that transformation as a frond-end developer having in mind the relevance of the user experience thanks to my training as a psychologist focused on perception and its shaping as a result of the interactions we have with the environment.
 
